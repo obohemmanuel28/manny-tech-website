@@ -57,17 +57,17 @@ img{max-width:100%;display:block;}
   display:flex;align-items:center;justify-content:space-between;
   height:76px;
 }
-.brand{display:flex;align-items:center;gap:12px;}
+.brand{display:flex;align-items:center;gap:14px;}
 .brand-mark{
-  width:42px;height:42px;border-radius:10px;
+  width:50px;height:50px;border-radius:12px;
   background:linear-gradient(135deg,var(--navy-900),var(--teal-500));
-  color:#fff;font-weight:800;font-size:15px;
+  color:#fff;font-weight:800;font-size:18px;
   display:flex;align-items:center;justify-content:center;
   letter-spacing:.5px;
 }
 .brand-text{display:flex;flex-direction:column;line-height:1.15;}
-.brand-name{font-weight:800;font-size:16px;color:var(--navy-900);}
-.brand-sub{font-size:11.5px;color:var(--ink-soft);letter-spacing:.03em;}
+.brand-name{font-weight:800;font-size:22px;color:var(--navy-900);}
+.brand-sub{font-size:13px;color:var(--ink-soft);letter-spacing:.03em;}
 
 .main-nav{display:flex;align-items:center;gap:28px;}
 .main-nav a{font-size:14.5px;font-weight:600;color:var(--navy-900);opacity:.82;transition:opacity .15s;}
