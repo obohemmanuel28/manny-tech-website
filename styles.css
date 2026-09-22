@@ -59,7 +59,7 @@ img{max-width:100%;display:block;}
 }
 .brand{display:flex;align-items:center;gap:14px;}
 .brand-mark{
-  width:50px;height:50px;border-radius:12px;
+  width:65px;height:65px;border-radius:15px;flex:none;
   background:linear-gradient(135deg,var(--navy-900),var(--teal-500));
   color:#fff;font-weight:800;font-size:18px;
   display:flex;align-items:center;justify-content:center;
