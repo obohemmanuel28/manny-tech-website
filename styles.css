@@ -284,6 +284,9 @@ tbody tr:nth-child(even){background:var(--paper-alt);}
 .contact-form input:focus,.contact-form textarea:focus{outline:2px solid var(--teal-500);outline-offset:1px;}
 .contact-form .btn{margin-top:18px;align-self:flex-start;}
 .hidden-field{position:absolute;left:-9999px;}
+.form-status{margin:14px 0 0;font-size:14px;min-height:1.4em;}
+.form-status-success{color:var(--teal-500);font-weight:600;}
+.form-status-error{color:#c0392b;font-weight:600;}
 
 /* FOOTER */
 .site-footer{background:var(--navy-950);color:rgba(255,255,255,.75);padding:40px 0;}
